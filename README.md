@@ -4,7 +4,7 @@
 Este es un sitio web divertido que muestra una pelota que rebota alrededor de la pantalla cambiando de color cada vez que golpea los bordes de la pantalla.
 
 ## Usage 
-Visit [fun-clock](https://christopher4040.github.io/fun-clock/) to view the clock in action. 
+Visit [bouncing-ball](https://christopher4040.github.io/bouncing-ball/) to view the clock in action. 
 
 ## Roadmap
 - Add option to create balls with parameters
