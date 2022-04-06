@@ -1,7 +1,7 @@
 # Bouncing-Ball
 
 ## Description
-Este es un sitio web divertido que muestra una pelota que rebota alrededor de la pantalla cambiando de color cada vez que golpea los bordes de la pantalla.
+This is a fun website that shows a ball bouncing around the screen changing color every time it hits the edges of the screen.
 
 ## Usage 
 Visit [bouncing-ball](https://christopher4040.github.io/bouncing-ball/) to view the clock in action. 
